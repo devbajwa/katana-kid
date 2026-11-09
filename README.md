@@ -4,7 +4,9 @@ A pixel-art samurai platformer that runs in the browser. Play it at **https://ka
 
 ![Title screen](shots/v2_title.png)
 
-Game design by Luqman, who came up with the hero, the enemies, the worlds and the Red Oni boss. Built by Waqas Bajwa with AI-assisted development.
+Luqman came up with the idea: the hero, the enemies, the worlds and the Red Oni boss.
+
+Built by Waqas Bajwa with AI-assisted development. I designed the game, played and tested every build myself, and had the AI fix the issues I found, such as character movement, gameplay and performance.
 
 ## Play
 
