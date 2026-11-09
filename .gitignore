@@ -1,0 +1,5 @@
+# Netlify CLI local state
+deploy/.netlify/
+.netlify/
+# Older build kept locally
+samurai-combatt.v1.html
